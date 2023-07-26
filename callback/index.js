@@ -70,7 +70,7 @@ const tampil = (() => {//membuat function untuk menampilkan data
 hapusArr(tampil)//memanggil function hapusArr dengan tampil sebagai parameternya(untuk callback)
 
 /*
-output
+output :
 2
 3
 4
